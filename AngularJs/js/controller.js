@@ -18,10 +18,6 @@ angular.module('tfo')
   })
   .controller('Video', function ($scope, $stateParams, $filter) {
     $scope.$watch("videos", function(videos) {
-      console.log("videos", videos);
-
       $scope.video = $filter('getById')(videos, $stateParams.vid);
-      console.log("$scope.video", $scope.video);
-
     }, true);
   });
