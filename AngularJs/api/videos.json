@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "title": "Cats Stealing Dog Beds",
+    "description": "Don't worry, there's a happy ending",
+    "provider": "youtube",
+    "author": {
+      "id": 1,
+      "name": "Asaf",
+      "img": "http://devfest.gdg.co.il/images/speakers/AsafDavid.jpg"
+    },
+    "videoUrl": "http://www.youtube.com/embed/G2vfq-KTx8Q"
+  },
+  {
+    "id": 2,
+    "title": "BIG CATS like boxes too!",
+    "description": "Tigers, Lions & Leopards love boxes too! Just like domestic cats!\n\nTo find out more about Big Cat Rescue, our mission and volunteer opportunities please visit our website: http://bigcatrescue.org\n\nFACEBOOK: http://www.facebook.com/bigcatrescue",
+    "provider": "youtube",
+    "author": {
+      "id": 2,
+      "name": "Oren",
+      "img": "http://devfest.gdg.co.il/images/speakers/OrenRubin.jpg"
+    },
+    "videoUrl": "http://www.youtube.com/embed/J11uu8L8FTY"
+  },
+  {
+    "id": 3,
+    "title": "Growing Up Giraffe- Baby Giraffe Fall",
+    "description": "On Animal Planet's series, \"Growing Up Giraffe,\" learn about giraffes and the dangers of falling.",
+    "provider": "youtube",
+    "author": {
+      "id": 2,
+      "name": "Oren",
+      "img": "http://devfest.gdg.co.il/images/speakers/OrenRubin.jpg"
+    },
+    "videoUrl": "http://www.youtube.com/embed/AHNFWmAe5yg"
+  },
+  {
+    "id": 4,
+    "title": "The Ultimate Goat Edition Supercut",
+    "description": "More funny Videos on http://webfail.com\nThat weird moment when the goat is better than the﻿ singers. You can't stop laughing. Join Us On Facebookhttp://www.facebook.com/Compilariz\nTaylor Swift - I Knew You Were Trouble Compilationhttp://youtu.be/X6xWlfAwOvQ",
+    "provider": "youtube",
+    "author": {
+      "id": 1,
+      "name": "Asaf",
+      "img": "http://devfest.gdg.co.il/images/speakers/AsafDavid.jpg"
+    },
+    "videoUrl": "http://www.youtube.com/embed/wfpL6_0OBuA"
+  }
+]

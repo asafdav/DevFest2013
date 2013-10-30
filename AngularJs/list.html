@@ -1,0 +1,16 @@
+<table class="table animation">
+  <thead>
+  <tr>
+    <th>Title</th>
+    <th>Description</th>
+    <th>Author</th>
+  </tr>
+  </thead>
+  <tbody>
+    <tr ng-repeat="video in videos">
+      <td><a href="#/profile/{{video.author.id}}/video/{{video.id}}" >{{video.title}}</a></td> <!-- ui-sref="^.profile.video({id: video.author.id, vid: video.id})" -->
+      <td>{{video.description}}</td>
+      <td><a href="#/profile/{{video.author.id}}" >{{video.author.name}}</a></td>    <!-- ui-sref="^.profile({id: video.author.id})" -->
+    </tr>
+  </tbody>
+</table>
